@@ -14,6 +14,8 @@
 </p>
 </div>
 
+**https://github.com/ossu/computer-science/issues/727**
+
 # Contents
 
 - [Summary](#summary)
